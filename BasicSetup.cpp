@@ -7,11 +7,11 @@ void init(){
 
 //Function which basically displays what we want to in window
 void displayThis(){
+    
 glClear(GL_COLOR_BUFFER_BIT); // Clear the screen (Works like a duster)
-    
     /*My Art will be here ;p */
-    
 glFlush(); //Render all the output to the screen
+    
 }
 
 //Main function
