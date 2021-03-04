@@ -1,6 +1,6 @@
 Computer Graphics OpenGL
 
-[Basic Starter File](BasicSetup.cpp)  
+[Basic Starter File](1starter.cpp)  
 
 ## SHAPES
 [Point](pixel.cpp)  
