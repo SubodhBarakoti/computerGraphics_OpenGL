@@ -1,4 +1,4 @@
-#include <GL/glut.h>
+#include <GL/glut.h> 
 
 //Function which basically displays what we want to in window
 void displayThis(){
